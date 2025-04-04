@@ -1,0 +1,8 @@
+2025-04-04 06:29:05.954424 - Received CBT.V508.FILE237.PDS from FILE237.XMI 
+2025-04-04 06:29:05.955109 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE237.PDS, moved to PDS/$$$#DATE
+2025-04-04 06:29:05.955254 - Found @FILE237.txt (text/plain) in CBT.V508.FILE237.PDS, moved to PDS/@FILE237
+2025-04-04 06:29:05.955425 - Found GETPDSDD.txt (text/plain) in CBT.V508.FILE237.PDS, moved to PDS/GETPDSDD
+2025-04-04 06:29:05.955572 - Found GETPDSDE.txt (text/plain) in CBT.V508.FILE237.PDS, moved to PDS/GETPDSDE
+2025-04-04 06:29:05.955693 - Found JCL.txt (text/plain) in CBT.V508.FILE237.PDS, moved to PDS/JCL
+2025-04-04 06:29:05.955838 - Found OBJECT.bin (application/octet-stream) in CBT.V508.FILE237.PDS, moved to PDS/OBJECT
+2025-04-04 06:29:05.955996 - Found PDSCLIST.txt (text/plain) in CBT.V508.FILE237.PDS, moved to PDS/PDSCLIST
